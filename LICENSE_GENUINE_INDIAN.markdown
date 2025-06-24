@@ -3,7 +3,7 @@
 ## Copyright Notice
 © 2025 Matrix LLC, West Virginia. All rights reserved.
 
-The **Genuine Indian AI Model** (in development) is the intellectual property of **Matrix LLC**, protected under common law copyright in the United States. This model, intended as a culturally inspired AI for the KanawhaAI platform, is not yet available and is being developed with consultation from Native American and South Asian communities to ensure respectful representation.
+The **Genuine Indian AI Model** (in development) is the intellectual property of **Kanawha LLC**, protected under common law copyright in the United States. This model, intended as a culturally inspired AI for the KanawhaAI platform, is not yet available and is being developed with consultation from Native American and South Asian communities to ensure respectful representation.
 
 ## Terms of Use
 1. **Ownership**: Matrix LLC retains all rights, title, and interest in the Genuine Indian AI Model, including all associated code, documentation, and outputs (when developed).
