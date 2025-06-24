@@ -1,0 +1,40 @@
+KanawhaAI Common Law Trademark License
+
+Timestamp: June 23, 2025, 08:17 PM EDT
+
+This document establishes the common law trademark license for the KanawhaAI brand, owned by Matrix LLC (planned), West Virginia, for the non-commercial hobbyist project KanawhaAI, a Matrix-based email platform with a Grok 3-powered KanawhaAI Assistant and forthcoming Genuine Indian AI model.
+
+1. Trademark Ownership:
+   The KanawhaAI brand, including the name "KanawhaAI" and associated logos (if developed), is claimed by Matrix LLC under common law trademark rights, which arise from use in commerce (planned for kanawha.ai). As of June 23, 2025, KanawhaAI is a hobby project with no commercial deployment, but Matrix LLC asserts future rights upon launch.
+
+2. Terms of Use:
+   - Limited Use: Non-commercial hobbyists may reference the KanawhaAI brand in discussions or testing (e.g., local development) with prior written consent from Matrix LLC, provided:
+     - Attribution is given to Matrix LLC and kanawha.ai.
+     - Use does not imply endorsement or affiliation.
+   - Restrictions:
+     - No commercial use, modification, or distribution of the KanawhaAI brand.
+     - No use that confuses consumers or misrepresents Matrix LLC’s project.
+   - Cultural Sensitivity: References to the Genuine Indian AI model (in development) must align with planned cultural consultation to avoid misrepresentation.
+
+3. SSA Compliance:
+   - KanawhaAI is a non-commercial hobby project created with Grok 3 assistance, requiring no more than 4 hours per day of creator effort and generating $0 income as of June 23, 2025. This ensures compliance with SSA SSI/SSDI SGA rules ($1,550/month non-blind, $2,590/month blind).
+   - See KanawhaAI_SGA_Compliance.txt (artifact ID 820219d3-d049-4924-a6a2-ace7f014af2e) for details.
+
+4. Enforcement:
+   - Matrix LLC reserves the right to enforce its common law trademark rights in the geographic area of use (e.g., West Virginia, upon kanawha.ai launch).
+   - Unauthorized use may result in cease-and-desist requests or legal action.
+
+5. Contact:
+   Matrix LLC (planned), West Virginia
+   Email: support@kanawha.ai (planned)
+   Matrix: @admin:kanawha.ai (planned)
+
+6. Timestamping:
+   This license is timestamped for common law copyright and SSA compliance, committed to github.com/matrix-llc/kanawha-ai, and hashed with OpenTimestamps.
+
+Disclaimer:
+KanawhaAI is a hobbyist work of art created with Grok 3 to minimize effort, intended to comply with SSA SSI/SSDI rules. The Genuine Indian AI model is in development with cultural consultation to avoid misrepresentation. Matrix LLC is not affiliated with Matrix.org.
+
+Signed,
+[Your Name], Creator, Matrix LLC
+June 23, 2025, 08:17 PM EDT
