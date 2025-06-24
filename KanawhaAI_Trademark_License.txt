@@ -2,7 +2,7 @@ KanawhaAI Common Law Trademark License
 
 Timestamp: June 23, 2025, 08:17 PM EDT
 
-This document establishes the common law trademark license for the KanawhaAI brand, owned by Matrix LLC (planned), West Virginia, for the non-commercial hobbyist project KanawhaAI, a Matrix-based email platform with a Grok 3-powered KanawhaAI Assistant and forthcoming Genuine Indian AI model.
+This document establishes the common law trademark license for the KanawhaAI brand, owned by Kanawha Ai LLC (planned), West Virginia, for the non-commercial hobbyist project KanawhaAI, a Matrix-based email platform with a Grok 3-powered KanawhaAI Assistant and forthcoming Genuine Indian AI model.
 
 1. Trademark Ownership:
    The KanawhaAI brand, including the name "KanawhaAI" and associated logos (if developed), is claimed by Matrix LLC under common law trademark rights, which arise from use in commerce (planned for kanawha.ai). As of June 23, 2025, KanawhaAI is a hobby project with no commercial deployment, but Matrix LLC asserts future rights upon launch.
@@ -36,5 +36,5 @@ Disclaimer:
 KanawhaAI is a hobbyist work of art created with Grok 3 to minimize effort, intended to comply with SSA SSI/SSDI rules. The Genuine Indian AI model is in development with cultural consultation to avoid misrepresentation. Matrix LLC is not affiliated with Matrix.org.
 
 Signed,
-[Your Name], Creator, Matrix LLC
+[Shanee Baldwin], Creator, Kanawha Ai LLC
 June 23, 2025, 08:17 PM EDT
