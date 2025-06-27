@@ -1,0 +1,122 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+ENV/
+*.egg-info/
+dist/
+build/
+*.whl
+
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+frontend/build/
+frontend/dist/
+
+# Environment Variables
+.env
+*.env
+*.env.*
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Logs
+*.log
+logs/
+data/logs/
+*.log.*
+npm.log
+yarn.log
+
+# Docker
+*.dockerignore
+docker-compose.override.yml
+*.tar.gz
+*.tar
+
+# Sphinx and Documentation
+docs/build/
+docs/source/_build/
+docs/source/_static/*.bak
+docs/source/_templates/*.bak
+docs/source/sitemap.xml  # Generated file
+docs/source/*.log
+
+# Elasticsearch
+elasticsearch/
+*.es
+data/elasticsearch/
+
+# LaTeX (White Paper)
+docs/whitepaper/*.aux
+docs/whitepaper/*.log
+docs/whitepaper/*.out
+docs/whitepaper/*.toc
+docs/whitepaper/*.pdf  # Exclude generated PDF, include .tex
+
+# Sensitive Data
+data/raw/*.csv  # Exclude raw data (feedback, transactions)
+data/processed/*.pkl  # Exclude processed data
+*.key
+*.pem
+*.crt
+*.cert
+*.secret
+
+# Model Files (Large Artifacts)
+data/models/*
+!data/models/*/config.json
+!data/models/*/tokenizer.json
+!data/models/*/generation_config.json
+
+# Temporary Files
+*.bak
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# IDE and Editor Files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# GitHub Actions
+.github/workflows/*.cache
+.github/workflows/*.log
+
+# RunPod and GPU Rental
+runpod/*.log
+runpod/*.cache
+gpu_rental/*.log
+gpu_rental/*.cache
+
+# Testing and Coverage
+coverage/
+.coverage
+*.cover
+*.coverage.*
+htmlcov/
+pytest_cache/
+.tox/
+
+# AdSense and Analytics
+adsense/*.cache
+adsense/*.log
+
+# Miscellaneous
+*.tmp
+*.temp
+*.bak.*
+*.backup
